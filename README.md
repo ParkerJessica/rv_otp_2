@@ -104,6 +104,7 @@ rv_otp_2> git remote add upstream https://github.com/groxio-learning/rv_otp_2.gi
 
 ```
 - Bruce Tate
+- Jessica Hardee
 - Your Name Here
 ```
 
